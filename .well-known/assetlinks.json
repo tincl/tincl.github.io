@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tincl.familychat",
+      "sha256_cert_fingerprints": [
+        "EC:37:8D:E1:D7:6A:6D:26:DB:8F:D7:92:01:5F:09:2D:D9:27:93:D1:00:EF:6C:54:B8:F9:20:D2:C2:BF:F1:B3"
+      ]
+    }
+  }
+]
